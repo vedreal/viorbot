@@ -14,7 +14,7 @@ LOG_FILE = "log.txt"
 
 START_TEXT = (
     "⭐ *Welcome to VIOREX Project*\n\n"
-    "VIOREX is a decentralized mini app that enables users to earn VIOR tokens\nthrough a secure and lightweight mining system\ndesigned for long-term ecosystem sustainability.\n\n"
+    "VIOREX is a decentralized blockchain project focused on the fair and sustainable distribution of VIOR tokens.\n\n"
     "✨ Features:\n"
     "• Mine VIOR tokens\n"
     "• Real-time reward tracking\n"
