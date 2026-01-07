@@ -13,9 +13,8 @@ LOG_FILE = "log.txt"
 # =========================================
 
 START_TEXT = (
-    "🚀 *Welcome to VIOREX Project*\n\n"
-    "VIOREX is a blockchain-powered mini app that allows users to earn "
-    "*VIOR tokens* through a lightweight node mining system.\n\n"
+    "⭐ *Welcome to VIOREX Project*\n\n"
+    "VIOREX is a decentralized mini app that enables users to earn VIOR tokens\nthrough a secure and lightweight mining system\ndesigned for long-term ecosystem sustainability.\n\n"
     "✨ Features:\n"
     "• Mine VIOR tokens\n"
     "• Real-time reward tracking\n"
@@ -65,7 +64,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     save_user(update.effective_user)
 
     keyboard = [
-        [InlineKeyboardButton("🚀 Open VIOREX Mini App", url=MINIAPP_URL)]
+        [InlineKeyboardButton("💎 Earn VIOR", url=MINIAPP_URL)]
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
 
