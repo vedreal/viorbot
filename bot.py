@@ -18,6 +18,8 @@ START_TEXT = (
     "✨ Features:\n"
     "• Mine VIOR tokens\n"
     "• Real-time reward tracking\n"
+    "• Additional bonuses from tasks\n"
+    "• Invite friend for unlimited rewards\n"
     "• Instant withdrawal\n"
     "• Simple & transparent system\n\n"
     "Join early to become a top holder. 👑"
