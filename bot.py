@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # ================= CONFIG =================
-BOT_TOKEN = 8511288193
+BOT_TOKEN = "8511288193:AAGmmvik8uydHGXweoWv1_8nwMkWENQAsnU"
 ADMIN_ID = 7045296303  # ganti dengan Telegram ID kamu
 MINIAPP_URL = "https://t.me/ViorexcoinBot/app"
 
